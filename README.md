@@ -1,4 +1,4 @@
-# CM3070-Mobile-Dev-weather-app
+# CM3050-Mobile-Dev-weather-app
 # 🌦️ WeatherApp  
 
 A simple and modern weather application built with **React Native (Expo)**. The app provides real-time weather information, personalized saved cities, and notifications. It integrates with **OpenWeather API** for weather data and **Supabase** for backend data management and authentication.  
