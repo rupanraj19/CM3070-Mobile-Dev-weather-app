@@ -50,12 +50,15 @@ Make sure you have the following installed:
    npm start or npx expo start
 
 You can then run the app on an iOS or Android emulator or scan the QR code with your mobile device to run it using the Expo Go app.
-  
+---
+
 ## 🔮 Future Enhancements  
 - 🗺️ Add interactive maps  
 - 📡 Expand offline capabilities  
 - 🌫️ Integrate air quality and severe weather alerts  
 - 🎨 Implement live weather-based backgrounds
+
+---
 
 ## 🙌 Acknowledgements  
 - [OpenWeather](https://openweathermap.org/) for weather data  
