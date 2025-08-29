@@ -322,7 +322,6 @@ export default function HomeScreen({ navigation }) {
                   <Text style={tw`text-white text-xl`}>
                     {weather.rain && weather.rain['1h'] ? `${weather.rain['1h']} mm` : 'No rainfall registered for last 1hr'}
                   </Text>
-                  <Ionicons name="analytics-outline" size={18} color="red" />
                 </TouchableOpacity>
               </View>
 
@@ -672,4 +671,5 @@ export default function HomeScreen({ navigation }) {
       )}
     </View>
   );
+
 }
