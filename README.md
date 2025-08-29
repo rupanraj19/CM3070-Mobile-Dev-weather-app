@@ -33,5 +33,5 @@ A simple and modern weather application built with **React Native (Expo)**. The 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
+   git clone https://github.com/rupanraj19/CM3070-Mobile-Dev-weather-app.git
+   cd CM3070-Mobile-Dev-weather-app
