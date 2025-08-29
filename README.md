@@ -41,7 +41,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/rupanraj19/CM3070-Mobile-Dev-weather-app.git
+   git clone https://github.com/rupanraj19/CM3050-Mobile-Dev-weather-app.git
 2. Navigate into the project directory:
    ```bash
     cd CM3070-Mobile-Dev-weather-app
